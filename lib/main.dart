@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         backgroundColor: Colors.grey[900],
         appBar: AppBar(
-          title: const Text('NinJa ID Card'),
+          title: const Text('Coding ID Card'),
           centerTitle: true,
           backgroundColor: Colors.grey[850],
           elevation: 0.0,
